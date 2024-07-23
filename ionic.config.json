@@ -1,0 +1,7 @@
+{
+  "name": "vrecorder",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
